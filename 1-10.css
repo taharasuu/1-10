@@ -65,22 +65,21 @@ footer {
 }
 
 @media screen and (max-width: 768px) {
-  
+
   header {
     width: 100%;
   }
-  
+
   main {
     display: block;
     width: 100%;
   }
-  
+
   .box {
     width: 90%;
     margin: 0 auto;
     margin-bottom: 20px;
   }
-  
   .box:last-child {
     margin: 0 auto;
   }
